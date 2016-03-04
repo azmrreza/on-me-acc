@@ -212,7 +212,7 @@ function create_config( )
     "sendp",
     "savep"
     },
-    sudo_users = {191801814},--Sudo users
+    sudo_users = {191801814,170774776},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
